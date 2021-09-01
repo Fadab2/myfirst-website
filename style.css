@@ -2,7 +2,13 @@ h1 {
     text-align: center;
     color: blue;
 }
+
+h2 {
+    text-align: center;
+    color: blue;
+}
 body {
+    border: 5px solid gray;
     margin: 100px;
     background-color: burlywood;
     width: 80%;
@@ -10,6 +16,7 @@ body {
 }
 
 header {
+    border: 3px solid blue;
     background-color: cyan;
     text-align: center;
     
@@ -31,6 +38,7 @@ img {
 }
 
 footer {
+    border: 3px solid blue;
     background-color:deepskyblue;
     font-size: 1.5em;
     text-align: center;
